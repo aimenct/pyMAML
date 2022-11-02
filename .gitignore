@@ -1,3 +1,7 @@
+# AML and JSON
+*.aml
+*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +131,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm settings
+.idea/
+
+# AML Engine
+pymaml/engine/
+
+# Visual Studio Code
+.vscode/
